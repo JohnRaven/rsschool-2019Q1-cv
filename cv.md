@@ -19,7 +19,7 @@
  - JavaScript  
  - Photoshop  
 
-**Tools:**  
+**Tools:** 
  - GIT  
  - VS Code, Sublime Text 
 *** 
@@ -32,7 +32,7 @@
  - Broadway  
 ***
 ### **Experience**
-**Self education:** 
+**Self education:**
 - [Codecademy](https://www.codecademy.com/users/JohnRAven1965/achievements) 
 - [HTMLAcademy](https://htmlacademy.ru/profile/id917225/achievements)
 - [Geekbrains (skills)](https://geekbrains.ru/users/1167340?tab=skills#skills), [Geekbrains (certificates)](https://geekbrains.ru/users/1167340?tab=courses-and-certificates#courses-and-certificates)
@@ -40,6 +40,7 @@
 - [Codebra](https://codebra.ru/)
 
 **Current moment:**
+
 - [The Rolling Scopes School](https://school.rollingscopes.com/)
 ***
 ### **Education**
