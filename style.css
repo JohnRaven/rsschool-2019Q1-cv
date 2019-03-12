@@ -267,3 +267,8 @@ h2:hover {
     font-weight: 900;
     color: #1704c2;
 }
+a:hover {
+    border: dotted 1px #18bac5;
+    background-color: #4183C4;
+    color: black;
+}
